@@ -1,0 +1,191 @@
+{
+  "status": "success",
+  "data": {
+    "btc": {
+      "name": "Bitcoin",
+      "code": "btc",
+      "price": "8504.9",
+      "change": -4.98
+    },
+    "eth": {
+      "name": "Ethereum",
+      "code": "eth",
+      "price": "178.36",
+      "change": -5.34
+    },
+    "usdt": {
+      "name": "Tether",
+      "code": "usdt",
+      "price": "0.9243210697688572",
+      "change": -0.27
+    },
+    "xrp": {
+      "name": "XRP",
+      "code": "xrp",
+      "price": "0.18194",
+      "change": -3.8
+    },
+    "dash": {
+      "name": "Dash",
+      "code": "dash",
+      "price": "66.74299999999999",
+      "change": -3.79
+    },
+    "enj": {
+      "name": "Enjin",
+      "code": "enj",
+      "price": "0.1489145476",
+      "change": -2.37
+    },
+    "dai": {
+      "name": "Dai",
+      "code": "dai",
+      "price": "0.93128",
+      "change": 0.28
+    },
+    "snc": {
+      "name": "SunContract",
+      "code": "snc",
+      "price": "0.020837005",
+      "change": -13.77
+    },
+    "ltc": {
+      "name": "Litecoin",
+      "code": "ltc",
+      "price": "39.03",
+      "change": -4.17
+    },
+    "bch": {
+      "name": "Bitcoin Cash",
+      "code": "bch",
+      "price": "214.6",
+      "change": -4.54
+    },
+    "eos": {
+      "name": "EOS",
+      "code": "eos",
+      "price": "2.3587",
+      "change": -3.48
+    },
+    "trx": {
+      "name": "TRON",
+      "code": "trx",
+      "price": "0.01360784",
+      "change": -3.77
+    },
+    "xlm": {
+      "name": "Stellar",
+      "code": "xlm",
+      "price": "0.06194",
+      "change": -3.8
+    },
+    "ada": {
+      "name": "Cardano",
+      "code": "ada",
+      "price": "0.046384",
+      "change": -2.4
+    },
+    "iota": {
+      "name": "IOTA",
+      "code": "iota",
+      "price": "0.182494116",
+      "change": -5.41
+    },
+    "xmr": {
+      "name": "Monero",
+      "code": "xmr",
+      "price": "57.83",
+      "change": -4.67
+    },
+    "etc": {
+      "name": "Ethereum Classic",
+      "code": "etc",
+      "price": "5.939",
+      "change": 1.54
+    },
+    "neo": {
+      "name": "NEO",
+      "code": "neo",
+      "price": "9.108747899999999",
+      "change": -3.63
+    },
+    "zec": {
+      "name": "Zcash",
+      "code": "zec",
+      "price": "38.301",
+      "change": -4.79
+    },
+    "xem": {
+      "name": "NEM",
+      "code": "xem",
+      "price": "0.03578315999999999",
+      "change": -2.12
+    },
+    "rep": {
+      "name": "Augur",
+      "code": "rep",
+      "price": "11.878776",
+      "change": -0.11
+    },
+    "zrx": {
+      "name": "0xProject",
+      "code": "zrx",
+      "price": "0.3654132664",
+      "change": 14.28
+    },
+    "omg": {
+      "name": "OmiseGO",
+      "code": "omg",
+      "price": "0.8762826800000001",
+      "change": 4.39
+    },
+    "lrc": {
+      "name": "Loopring",
+      "code": "lrc",
+      "price": "0.0345501156",
+      "change": 1.63
+    },
+    "snt": {
+      "name": "Status",
+      "code": "snt",
+      "price": "0.026539968",
+      "change": -3.83
+    },
+    "propy": {
+      "name": "Propy",
+      "code": "propy",
+      "price": "0.194336965",
+      "change": 31.2
+    },
+    "fun": {
+      "name": "FunFair",
+      "code": "fun",
+      "price": "0.0024114272",
+      "change": -5.2
+    },
+    "gno": {
+      "name": "Gnosis",
+      "code": "gno",
+      "price": "18.888324",
+      "change": -1.63
+    },
+    "req": {
+      "name": "Request Network",
+      "code": "req",
+      "price": "0.010801223",
+      "change": 24.97
+    },
+    "mtl": {
+      "name": "Metal",
+      "code": "mtl",
+      "price": "0.25790856",
+      "change": -2.93
+    },
+    "cvc": {
+      "name": "Civic",
+      "code": "cvc",
+      "price": "0.01847987960000001",
+      "change": -3.88
+    }
+  }
+}

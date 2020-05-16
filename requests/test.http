@@ -1,0 +1,8 @@
+GET http://localhost:8080/currencies/BTC
+###
+GET http://localhost:8080/currencies/BTC?filter=USDT&filter=ETH
+###
+POST http://localhost:8080/currencies/exchange
+Content-Type: application/json
+
+{"from":"BTC","to":["USDT","ETH"],"amount":121}
